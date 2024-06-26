@@ -25,5 +25,5 @@ function upDate(previewPic) {
       */
   
     document.getElementById('image').innerHTML = "Hover over an image below to display here.";
-    document.getElementById('image').style.backgroundImage = "url('')";
+    document.getElementById('image').style.backgroundImage = "img/1000.png";
   }
