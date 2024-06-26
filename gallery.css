@@ -1,7 +1,7 @@
 /*Name this external file gallery.css*/
 body{
-    margin: auto;
-    
+    margin: 2%;
+    background-color: black;
     background-image: url('img/1000.png');
     background-size: cover;
 }
