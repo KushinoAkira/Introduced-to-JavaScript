@@ -3,7 +3,7 @@ body{
     margin: 2%;
     border: 1px solid black;
     background-image: url('img/1000.png');
-    margin: auto;
+    background-size: cover;
 }
 #image{
 line-height:650px;
